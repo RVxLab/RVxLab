@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello there, I'm RVxLab
 
-<!--
-**RVxLab/RVxLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer in The Netherlands.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Country**: 🇳🇱
+- **Languages**: 
+  - PHP
+  - JavaScript / TypeScript (Node and Browser)
+  - CSS / Sass
+  - C#
+- **Frameworks**:
+  - Laravel
+  - Vue
+  - React
+- **IDE**: PhpStorm
+- **Would like to learn**:
+  - Go
+  - Rust
+  - C
+  - Deno
