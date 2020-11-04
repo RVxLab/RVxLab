@@ -1,6 +1,6 @@
 # Hello there, I'm RVxLab
 
-I'm a full stack developer in The Netherlands.
+I'm a full stack developer in The Netherlands and maintainer of [nova-tabs](https://github.com/eminiarts/nova-tabs).
 
 ## About me
 
