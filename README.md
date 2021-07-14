@@ -1,22 +1,27 @@
-# Hello there, I'm RVxLab
+# Gegroet!
 
-I'm a full stack developer in The Netherlands.
+I'm RVxLab, a full-stack developer from the Netherlands 🇳🇱
 
-## About me
+## Some of my projects
 
-- **Country**: 🇳🇱
-- **Languages**: 
-  - PHP
-  - JavaScript / TypeScript (Node and Browser)
-  - CSS / Sass
-  - C#
-- **Frameworks**:
-  - Laravel
-  - Vue
-  - React
-- **IDE**: PhpStorm
-- **Would like to learn**:
-  - Go
-  - Rust
-  - C
-  - Deno
+### [Filament Colorpicker](https://github.com/RVxLab/filament-colorpicker)
+
+A colour picker field for Laravel Filament using Vanilla Picker.
+
+![Laravel][laravel] ![PHP][php]
+
+## Some stats
+
+<details>
+  <summary>Show me!</summary>
+  
+  <br>
+  
+  ![My repo stats](https://github-readme-stats.vercel.app/api?username=rvxlab&show_icons=true)
+  
+  ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvxlab)
+</details>
+
+[laravel]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
