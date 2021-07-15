@@ -4,11 +4,7 @@ I'm RVxLab, a full-stack developer from the Netherlands 🇳🇱
 
 ## Some of my projects
 
-### [Filament Colorpicker](https://github.com/RVxLab/filament-colorpicker)
-
-A colour picker field for Laravel Filament using Vanilla Picker.
-
-![Laravel][laravel] ![PHP][php]
+[![Filament Colorpicker](filament-colorpicker.png)](https://github.com/RVxLab/filament-colorpicker)
 
 ## Some stats
 
