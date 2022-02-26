@@ -14,7 +14,7 @@ A [TailwindCSS](https://tailwindcss.com) plugin to help dealing with 100vh in Sa
 
 A plugin for [Laravel Filament](https://filamentadmin.com) that wraps [Vanilla Picker](https://vanilla-picker.js.org/) into a component.
 
-[![Download through Composer](https://img.shields.io/badge/php-composer%20require%20rvxlab%2Ffilament--colorpicker-%23777BB4?logo=PHP&style=flat-square)](https://packagist.org/packages/rvxlab/filament-colorpicker)
+[](![Download through Composer](https://img.shields.io/badge/php-composer%20require%20rvxlab%2Ffilament--colorpicker-%23777BB4?logo=PHP&style=flat-square)https://packagist.org/packages/rvxlab/filament-colorpicker)
 
 ### [nova-tabs](https://github.com/eminiarts/nova-tabs) (maintainer)
 
@@ -22,7 +22,7 @@ A plugin for [Laravel Nova](https://nova.laravel.com) to show tabs on a resource
 
 Created by [Bajram Emini](https://github.com/bajramemini) and currently maintained by me.
 
-[![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20eminiarts%2Fnova--tabs-%23777BB4?logo=php&style=flat-square)](https://packagist.org/packages/eminiarts/nova-tabs)
+[https://packagist.org/packages/eminiarts/nova-tabs](![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20eminiarts%2Fnova--tabs-%23777BB4?logo=php&style=flat-square))
 
 ## Some stats
 
