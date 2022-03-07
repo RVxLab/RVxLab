@@ -24,6 +24,12 @@ Created by [Bajram Emini](https://github.com/bajramemini) and currently maintain
 
 [![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20eminiarts%2Fnova--tabs-%23777BB4?logo=php&style=flat-square)](https://packagist.org/packages/eminiarts/nova-tabs)
 
+### [hcaptcha](https://github.com/RVxLab/hcaptcha)
+
+A fork of [Scyllaly's HCaptcha package](https://github.com/scyllaly/hcaptcha) with modernized code, improved tests and a few more features.
+
+[![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20rvxlab%2Fhcaptcha-%23777BB4?logo=php&style=flat-square)](https://packagist.org/packages/RVxLab/hcaptcha)
+
 ## Some stats
 
 <details>
