@@ -16,11 +16,11 @@ A plugin for [Laravel Filament](https://filamentadmin.com) that wraps [Vanilla P
 
 [![Download through Composer](https://img.shields.io/badge/php-composer%20require%20rvxlab%2Ffilament--colorpicker-%23777BB4?logo=PHP&style=flat-square)](https://packagist.org/packages/rvxlab/filament-colorpicker)
 
-### [nova-tabs](https://github.com/eminiarts/nova-tabs) (maintainer)
+### [nova-tabs](https://github.com/eminiarts/nova-tabs) (maintainer of 3.x)
 
 A plugin for [Laravel Nova](https://nova.laravel.com) to show tabs on a resource's detail and edit pages.
 
-Created by [Bajram Emini](https://github.com/bajramemini) and currently maintained by me.
+Created by [Bajram Emini](https://github.com/bajramemini) and version 3.x was maintained by me.
 
 [![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20eminiarts%2Fnova--tabs-%23777BB4?logo=php&style=flat-square)](https://packagist.org/packages/eminiarts/nova-tabs)
 
