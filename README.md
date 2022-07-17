@@ -16,7 +16,7 @@ A drop-in replacement fork of [Scyllaly's HCaptcha package](https://github.com/s
 
 [![Download through Composer](https://img.shields.io/badge/PHP-composer%20require%20rvxlab%2Fhcaptcha-%23777BB4?logo=php&style=flat-square)](https://packagist.org/packages/RVxLab/hcaptcha)
 
-### [filament-colorpicker (deprecated)](https://github.com/RVxLab/filament-colorpicker)
+### [filament-colorpicker](https://github.com/RVxLab/filament-colorpicker) (deprecated)
 
 A plugin for [Laravel Filament](https://filamentadmin.com) that wraps [Vanilla Picker](https://vanilla-picker.js.org/) into a component.
 
