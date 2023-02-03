@@ -1,6 +1,6 @@
 # Hey!
 
-I'm RVxLab, a full-stack developer in Queensland, Australia 🇦🇺 🇳🇱
+I'm RVxLab, a full-stack developer in Queensland, Australia. 
 
 ## Some of my projects
 
