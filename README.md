@@ -1,6 +1,6 @@
-# Gegroet!
+# Hey!
 
-I'm RVxLab, a full-stack developer from the Netherlands and currently living in Queensland, Australia 🇦🇺 🇳🇱
+I'm RVxLab, a full-stack developer in Queensland, Australia 🇦🇺 🇳🇱
 
 ## Some of my projects
 
