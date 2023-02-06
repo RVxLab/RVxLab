@@ -2,6 +2,8 @@
 
 I'm RVxLab, a full-stack developer in Queensland, Australia. 
 
+I'm also on <a rel="me" href="https://phpc.social/@rvxlab">Mastodon</a>!
+
 ## Some of my projects
 
 ### [tailwind-plugin-ios-full-height](https://github.com/RVxLab/tailwind-plugin-ios-full-height)
