@@ -4,9 +4,11 @@ I'm RVxLab, a full-stack developer in Queensland, Australia.
 
 ## Some of my projects
 
-### [tailwind-plugin-ios-full-height](https://github.com/RVxLab/tailwind-plugin-ios-full-height)
+### [tailwind-plugin-ios-full-height](https://github.com/RVxLab/tailwind-plugin-ios-full-height) (deprecated)
 
 A [TailwindCSS](https://tailwindcss.com) plugin to help dealing with 100vh in Safari for iOS and iPadOS.
+
+It's been deprecated in favour of using `min-h-svh`.
 
 [![Download through NPM](https://img.shields.io/badge/JS-npm%20i%20--D%20%40rvxlab%2Ftailwind--plugin--ios--full--height-%23F7DF1E?logo=JavaScript&style=flat-square)](https://www.npmjs.com/package/@rvxlab/tailwind-plugin-ios-full-height)
 
