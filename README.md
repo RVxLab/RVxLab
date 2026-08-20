@@ -2,6 +2,6 @@
 
 I'm RVxLab, a full-stack developer in Queensland, Australia. 
 
-## Migrated to Forgejo
+## Forgejo Mirror
 
-I migrated most of my repositories to a private Git forge. Link in the sidebar.
+I mirror a lot of my project to my [my private Forgejo instance](https://code.rvx.works/RVxLab).
